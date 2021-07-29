@@ -17,5 +17,3 @@ if (!window.nearAPI) window.nearAPI = nearAPI;
 ^
 ReferenceError: window is not defined
 ```
-
-Please see the example github repository for more details.
